@@ -5,8 +5,8 @@ The run_analysis.R script requires the UCI HAR dataset in order to function. It 
 but they should not be called except by run(). The result of run is a data.frame that contains a tidy version of the data as defined by the Getting and Cleaning Data Coursera course.
 
 Sample usage:
-> source('run_analysis.R')
-> result<-run()
+$ source('run_analysis.R')
+$ result<-run()
 
 The dataset can be found here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
