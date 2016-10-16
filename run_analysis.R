@@ -1,3 +1,5 @@
+# Authored by Henry Pong
+
 # Combines test and train set from the UCI HAR dataset and summarizes the mean & std features
 # based on subject and activity.
 # This function assumes that the UCI HAR dataset has been unzipped as is into the current
