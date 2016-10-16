@@ -15,3 +15,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 A description of the data set can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+# Files
+CodeBook.md - explains the transformations done to the original data set by the run_analysis.R script
+CodeBookOriginalData.md - describes the original data set. This was taken from the UCI HAR data set
+run_analysis.R - script that does the transformation and data tidying
+tidy.txt - sample output of the run_analysis.R file
