@@ -6,6 +6,7 @@ but they should not be called except by run(). The result of run is a data.frame
 
 Sample usage:
 $ source('run_analysis.R')
+
 $ result<-run()
 
 The dataset can be found here:
