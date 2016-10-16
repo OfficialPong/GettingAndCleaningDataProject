@@ -4,7 +4,7 @@ Project for Getting and Cleaning Data - Coursera
 The run_analysis.R script requires the UCI HAR dataset in order to function. It assumes that the UCI HAR dataset zip file is extracted into the current working directory with folder structure intact. The main function in run_analysis.R is called run() and takes no arguments. There are several helper functions in the script,
 but they should not be called except by run(). The result of run is a data.frame that contains a tidy version of the data as defined by the Getting and Cleaning Data Coursera course.
 
-Usage:
+Usage:<br />
 $ source('run_analysis.R')<br />
 $ result<-run()<br />
 
